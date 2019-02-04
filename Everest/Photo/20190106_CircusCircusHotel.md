@@ -49,3 +49,8 @@
 ![20190106 马戏团主题公园 19](https://s3.us-east-2.amazonaws.com/everestinfo/Photo/20190106_CircusCircusHotel/ircusCircusHotel00019.jpeg)
 
 ![20190106 马戏团主题公园 20](https://s3.us-east-2.amazonaws.com/everestinfo/Photo/20190106_CircusCircusHotel/ircusCircusHotel00020.jpeg)
+
+* 视频
+
+
+[20190106 马戏团主题公园 01](https://s3.us-east-2.amazonaws.com/everestinfo/Video/20190106_CircusCircusHotel/ircusCircusHotel0001.mov)
