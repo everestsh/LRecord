@@ -10,6 +10,8 @@
 
 * 室内颜色(old)
 
+![室内颜色 old](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/IndoorColor/IndoorColor03.jpeg)
+
 * 室内漆的信息(new)
 
 ![室内漆的信息 1](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/IndoorColor/PaintInfo01.jpeg)

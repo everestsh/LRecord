@@ -1,4 +1,4 @@
-# Albany rProblem
+# Albany Problem and Repair
 
 
 ###### 0X01 --- SewerProblem：
@@ -29,3 +29,14 @@
 ![SewerProblem 12](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerProblem/SewerProblem00012.jpeg)
 
 ![SewerProblem 13](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerProblem/SewerProblem00013.jpeg)
+
+
+###### 0X02 --- SewerRepair：
+
+![SewerRepair 01](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerRepair/SewerRepair00001.jpeg)
+
+![SewerRepair 02](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerRepair/SewerRepair00002.jpeg)
+
+![SewerRepair 03](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerRepair/SewerRepair00003.jpeg)
+
+![SewerRepair 04](https://s3.amazonaws.com/sooof/LifeRecord/HomeFurnishing/Albany/995/SewerRepair/SewerRepair00004.jpeg)
